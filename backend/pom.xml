@@ -11,8 +11,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>org.amigoscode</groupId>
-    <artifactId>amigoscode-api</artifactId>
+    <groupId>org.</groupId>
+    <artifactId>api</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
